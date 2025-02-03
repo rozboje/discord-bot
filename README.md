@@ -1,4 +1,4 @@
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> Feature
+## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> Features
 - [x] Welcome messages
 - [x] Verification system
 - [x] Slash Commands
