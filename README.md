@@ -21,7 +21,3 @@ npm install discord.js
 ```bash
 node index.js
 ```
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> Running bot preview:
-  <kbd>
-<img src="https://cdn.discordapp.com/attachments/1334339978091823124/1341831265531461632/Xsd4TJ4.png?ex=67b76d3f&is=67b61bbf&hm=6505592300d6b09a9607143c4dceff6167594c8608f4afcf9496f0cc13864229&"></img>
-  </kbd>
